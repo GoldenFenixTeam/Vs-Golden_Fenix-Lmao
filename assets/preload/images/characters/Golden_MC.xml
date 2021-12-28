@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Golden_MC.png"><SubTexture name="Golden_MC Idle0000" x="0" y="0" width="272" height="441" frameX="0" frameY="0" frameWidth="272" frameHeight="441" />
+<SubTexture name="Golden_MC Idle0001" x="272" y="0" width="244" height="441" frameX="0" frameY="0" frameWidth="244" frameHeight="441" />
+<SubTexture name="Golden_MC Idle0002" x="516" y="0" width="231" height="441" frameX="0" frameY="0" frameWidth="231" frameHeight="441" />
+<SubTexture name="Golden_MC Idle0003" x="747" y="0" width="210" height="441" frameX="0" frameY="0" frameWidth="210" frameHeight="441" />
+<SubTexture name="Golden_MC Idle0004" x="0" y="441" width="197" height="444" frameX="0" frameY="0" frameWidth="197" frameHeight="444" />
+<SubTexture name="Golden_MC Left0000" x="197" y="441" width="358" height="438" frameX="0" frameY="0" frameWidth="358" frameHeight="438" />
+<SubTexture name="Golden_MC Left0001" x="555" y="441" width="358" height="438" frameX="0" frameY="0" frameWidth="358" frameHeight="438" />
+<SubTexture name="Golden_MC Left0002" x="913" y="441" width="358" height="438" frameX="0" frameY="0" frameWidth="358" frameHeight="438" />
+<SubTexture name="Golden_MC Right0000" x="0" y="885" width="344" height="446" frameX="0" frameY="0" frameWidth="344" frameHeight="446" />
+<SubTexture name="Golden_MC Right0001" x="344" y="885" width="344" height="446" frameX="0" frameY="0" frameWidth="344" frameHeight="446" />
+<SubTexture name="Golden_MC Right0002" x="688" y="885" width="344" height="446" frameX="0" frameY="0" frameWidth="344" frameHeight="446" />
+<SubTexture name="Golden_MC Down0000" x="1032" y="885" width="258" height="439" frameX="0" frameY="0" frameWidth="258" frameHeight="439" />
+<SubTexture name="Golden_MC Down0001" x="0" y="1331" width="258" height="439" frameX="0" frameY="0" frameWidth="258" frameHeight="439" />
+<SubTexture name="Golden_MC Down0002" x="258" y="1331" width="258" height="439" frameX="0" frameY="0" frameWidth="258" frameHeight="439" />
+<SubTexture name="Golden_MC Up0000" x="516" y="1331" width="263" height="438" frameX="0" frameY="0" frameWidth="263" frameHeight="438" />
+<SubTexture name="Golden_MC Up0001" x="779" y="1331" width="263" height="438" frameX="0" frameY="0" frameWidth="263" frameHeight="438" />
+<SubTexture name="Golden_MC Up0002" x="0" y="1770" width="263" height="438" frameX="0" frameY="0" frameWidth="263" frameHeight="438" />
+</TextureAtlas>

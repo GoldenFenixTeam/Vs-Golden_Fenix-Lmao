@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ugh... Where am I..?",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "WHERE'S GF?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I'm right here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Where are we?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "It seems like we're in someone's house?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah I know that but I'm wondering who's house",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait what's that noise?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Sounds like someone's coming!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "DO WE HIDE WHAT DO WE DO?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "golden-dark",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello? I heard talking who's there?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're so dead"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello?-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh god It can't be..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF from FNF???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait you know me??"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "ARE YOU A STALKER?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? No you're from the hit game Friday Night Funkin'."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait there's a game about me???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You didn't know?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I literally had no idea."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways I'm gonna get back to working on my FNF mod"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If this FNF game you're talking about has us in it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How 'bout a rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Golden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That would help with the mod so... I guess why not try."
+		}
+	]
+}

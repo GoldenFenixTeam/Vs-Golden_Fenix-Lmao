@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Golden_MC idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Golden_MC Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Golden_MC Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Golden_MC Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Golden_MC Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Golden_MC Right"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Golden_MC Down"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Golden_MC Up"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Golden_MC Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Golden_MC",
+	"position": [
+		210,
+		30
+	],
+	"healthicon": "golden",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		102,
+		146
+	],
+	"camera_position": [
+		-30,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

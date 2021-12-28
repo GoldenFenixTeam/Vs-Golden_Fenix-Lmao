@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Golden.png"><SubTexture name="Golden sing DOWN0000" x="0" y="0" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden idle Dance0000" x="411" y="0" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden sing LEFT0000" x="822" y="0" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden sing RIGHT0000" x="0" y="794" width="411" height="834" frameX="0" frameY="0" frameWidth="411" frameHeight="834" />
+<SubTexture name="Golden sing UP0000" x="411" y="794" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden sing DOWN0001" x="822" y="794" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden idle Dance0001" x="0" y="1628" width="384" height="794" frameX="0" frameY="0" frameWidth="384" frameHeight="794" />
+<SubTexture name="Golden sing RIGHT0001" x="384" y="1628" width="411" height="834" frameX="0" frameY="0" frameWidth="411" frameHeight="834" />
+<SubTexture name="Golden sing UP0001" x="795" y="1628" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden idle Dance0002" x="0" y="2462" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden sing RIGHT0002" x="411" y="2462" width="411" height="834" frameX="0" frameY="0" frameWidth="411" frameHeight="834" />
+<SubTexture name="Golden sing UP0002" x="822" y="2462" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden idle Dance0003" x="0" y="3296" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden idle Dance0004" x="411" y="3296" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+<SubTexture name="Golden idle Dance0005" x="822" y="3296" width="411" height="794" frameX="0" frameY="0" frameWidth="411" frameHeight="794" />
+</TextureAtlas>

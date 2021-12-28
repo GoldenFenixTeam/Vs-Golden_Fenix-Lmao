@@ -1,0 +1,48 @@
+{
+	"storyName": "Will Never Be Famous XD XD XD",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Twitch",
+			"golden",
+			[
+				86,
+				113,
+				193
+			]
+		],
+		[
+			"Fenix",
+			"golden",
+			[
+				86,
+				113,
+				193
+			]
+		],
+		[
+			"Golden",
+			"golden",
+			[
+				86,
+				113,
+				193
+			]
+		]
+	],
+	"weekName": "WeekTTV"
+}
